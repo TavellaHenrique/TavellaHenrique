@@ -1,16 +1,22 @@
-## Hi there 👋
+# Henrique Tavella
 
-<!--
-**TavellaHenrique/TavellaHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Fatec Campinas (4º semestre) e técnico em Desenvolvimento de Sistemas pela Etec João Belarmino.
 
-Here are some ideas to get you started:
+Atualmente estudando desenvolvimento back-end com Java.
+Busco oportunidade de estágio na região de Campinas ou remoto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+**Linguagens:** Java / C / Python / JavaScript
+
+**Banco de Dados:** MySQL
+
+**Ambientes de Desenvolvimento:** VS Code / IntelliJ IDEA / Eclipse / Android Studio
+
+**Controle de Versão e Repositórios:** Git + GitHub
+
+## Contato
+
+LinkedIn: www.linkedin.com/in/tavellahenrique
+
+E-mail: henriquetavella0@gmail.com
